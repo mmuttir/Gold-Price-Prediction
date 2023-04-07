@@ -35,6 +35,10 @@ The methodology followed in this project includes the following steps:
 
 After building and training the Decision Tree model, we use it to make predictions on the test dataset. The results can be visualized by plotting a scatter plot of the original gold prices against the predicted gold prices. This helps us understand the relationship between the actual and predicted values.
 
+![results](https://github.com/mmuttir/Gold-Price-Prediction/blob/main/result_.png)
+
+![Correlation Plot](https://github.com/mmuttir/Gold-Price-Prediction/blob/main/corr.png)
+
 ## Conclusion
 
 In conclusion, this project demonstrates how to create a gold price prediction model using a decision tree algorithm. By evaluating the model's predictions, we can assess its accuracy and make improvements if necessary. It is important to note that decision trees might not be the best algorithm for predicting continuous variables like gold prices, and other algorithms such as linear regression or neural networks may yield better results. However, this project serves as a starting point for understanding the process of building and evaluating a predictive model.
