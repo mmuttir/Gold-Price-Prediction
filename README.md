@@ -34,9 +34,10 @@ The methodology followed in this project includes the following steps:
 ## Results
 
 After building and training the Decision Tree model, we use it to make predictions on the test dataset. The results can be visualized by plotting a scatter plot of the original gold prices against the predicted gold prices. This helps us understand the relationship between the actual and predicted values.
-
+#### Results
 ![results](https://github.com/mmuttir/Gold-Price-Prediction/blob/main/result_.png)
 
+#### Correlation Plot
 ![Correlation Plot](https://github.com/mmuttir/Gold-Price-Prediction/blob/main/corr.png)
 
 ## Conclusion
